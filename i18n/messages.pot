@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Extracted only from this provider's private source.
+msgid "Ianuarius"
+msgstr ""
+
+msgid "Februarius"
+msgstr ""
+
+msgid "Martius"
+msgstr ""
+
+msgid "Aprilis"
+msgstr ""
+
+msgid "Maius"
+msgstr ""
+
+msgid "Iunius"
+msgstr ""
+
+msgid "Iulius"
+msgstr ""
+
+msgid "Augustus"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "December"
+msgstr ""
