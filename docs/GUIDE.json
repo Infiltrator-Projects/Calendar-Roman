@@ -1,0 +1,35 @@
+{
+  "title": "Ancient Roman Calendar Notation",
+  "intro": "Roman writers often named a date by counting backward from the Kalends, Nones or Ides, rather than numbering the day forward through a month.",
+  "summary": "A Roman-style way of saying a date, applied here to the Julian calendar's familiar month and day structure.",
+  "origin": "The Kalends marked the first day of the month; Nones and Ides were additional traditional reference dates. The Ides of March is a famous example.",
+  "ring_label": "3",
+  "ring_caption": "LANDMARKS",
+  "diagram_title": "KALENDS, NONES AND IDES",
+  "structure": "The program uses proleptic Julian dates, then renders traditional Roman month landmarks and inclusive backward counting.",
+  "diagram_caption": "THREE LANDMARKS / INCLUSIVE BACKWARD COUNT",
+  "sections": [
+    {
+      "name": "Kalends",
+      "days": "1st",
+      "special": true
+    },
+    {
+      "name": "Nones",
+      "days": "5th/7th"
+    },
+    {
+      "name": "Ides",
+      "days": "13th/15th"
+    },
+    {
+      "name": "Before next landmark",
+      "days": "count back"
+    }
+  ],
+  "pattern_note": "The number of days counted is inclusive: the destination landmark is counted as one. Nones and Ides fall later in March, May, July and October.",
+  "history": "This naming convention reflects Roman public and civic practice and survives in many Latin quotations. Roman month and leap-day reckoning had a longer, more complicated history.",
+  "example": "15 March is the Ides of March. The day before the Ides may be described as pridie Idus Martias in the traditional style.",
+  "limits": "This provider uses Roman names over a mathematically extended Julian calendar. It is not a reconstruction of all pre-Julian Roman intercalations or early regnal chronology.",
+  "source": "https://github.com/Infiltrator-Projects/Calendar-Roman"
+}
