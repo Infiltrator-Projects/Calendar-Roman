@@ -111,10 +111,9 @@
       "selected_definitions": []
     },
     {
-      "path": "src/calendars/engine/calendar-custom.c",
+      "path": "src/calendars/engine/calendar-custom.cpp",
       "source_path": "resources/temporal/src/calendars/engine/calendar-custom.c",
       "source_sha256": "ae44cf27dde6b67f3dd298d46dd11854d748d618ae2bcccdfd97776e9b7e1885",
-      "copied_sha256": "b83584c62cb535ea2d739ad1d6616566fd07205af041c265b6f6ee39bf1a0c1c",
       "selected_definitions": [
         "calendar_custom_add_months",
         "calendar_custom_add_years",
@@ -134,7 +133,8 @@
         "julian_to_jdn",
         "positive_modulo",
         "roman_months"
-      ]
+      ],
+      "ported_to": "C++20"
     },
     {
       "path": "src/calendars/engine/calendar-custom.h",
@@ -295,7 +295,7 @@
       "selected_definitions": []
     }
   ],
-  "copy_method": "Historical C chronology retained with native C++20 public provider, C++ translation compiler and authoritative Common.",
+  "copy_method": "Native C++20 Roman chronology descriptor and ABI, with supporting C algorithms, using pinned Common.",
   "verification": {
     "repository": "Calendar-Roman",
     "compared_observations": 883,
