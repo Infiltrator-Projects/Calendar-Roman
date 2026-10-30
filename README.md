@@ -1,5 +1,7 @@
 # Ancient Roman Calendar Notation
 
+**Implementation:** Native C++20 public calendar provider, original C chronology, C++ embedded translations and a Python-free build, installer and release. Installed files: .so and illustrated PDF.
+
 **InfiltratorOS calendar resource** · **Stable ID:** `roman` · **Module:** `Ancient Roman Calendar Notation.so`
 
 Kalends, Nones and Ides date naming over a proleptic Julian calendar.
