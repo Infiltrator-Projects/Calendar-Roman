@@ -52,4 +52,4 @@ Translations use the provider-owned gettext domain `infiltrator-calendar-roman`.
 
 ## Illustrated user guide
 
-The installed package contains exactly two provider-owned files: `Ancient Roman Calendar Notation.so` and `Ancient Roman Calendar Notation.pdf`. Developer documentation stays in GitHub, and translations are embedded in the library. Native build attestation is stored in Debian control metadata.
+The installed package contains exactly two provider-owned files: `Ancient Roman Calendar Notation.so` and `Calendar-Roman.pdf`. Developer documentation stays in GitHub, and translations are embedded in the library. Native build attestation is stored in Debian control metadata.
